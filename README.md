@@ -1,0 +1,1 @@
+This program implements the “Bulls and Cows” game. It generates a random 4-digit number with unique digits, then the player tries to guess it. After each guess, the program shows how many digits are correct and in the right place (bulls) and how many are correct but misplaced (cows). It uses loops, arrays, and randomization.
